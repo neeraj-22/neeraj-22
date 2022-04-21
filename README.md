@@ -10,8 +10,8 @@
 - 🌱 I’m currently learning ...
   - Data structures in C++
   - Depths of React.js and Redux 
-- 👯 I’m looking forward to collaborate on open source projects.
-- 🤝 Connect with me at: <a href="https://www.linkedin.com/in/neeraj-gandhi-53487a193/">Neeraj Gandhi</a>
+- 🤝 I’m looking forward to collaborate on open source projects.
+- ➕ Connect with me at: <a href="https://www.linkedin.com/in/neeraj-gandhi-53487a193/">Neeraj Gandhi</a>
 
 <br>
 
