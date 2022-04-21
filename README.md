@@ -22,8 +22,8 @@
     <a href="https://github.com/neeraj-22/login-verification">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj-22&repo=login-verification" alt="GitHub Stats" />
     </a>
-    <a href="https://github.com/neeraj-22/newsapp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj-22&repo=newsapp" alt="GitHub Stats" />
+    <a href="https://github.com/neeraj-22/TeeCom">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj-22&repo=TeeCom" alt="GitHub Stats" />
     </a>
   </p>
 </div>
