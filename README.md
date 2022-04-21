@@ -41,11 +41,10 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-  <a href="https://github.com/neeraj-22/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:gandhineeraj48@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/neeraj-22/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/neeraj-gandhi-53487a193/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/neeraj-22/"><img align="left" alt="AlfredDagenais.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+	<a href="https://twitter.com/neerajgandhi04"><img align="left" alt="Neeraj Gandhi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+	<a href="mailto:gandhineeraj48@gmail.com"><img align="left" alt="Neeraj Gandhi | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+	<a href="https://www.linkedin.com/in/neeraj-gandhi-53487a193/"><img align="left" alt="AlfredDagenais | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 	
 </p>
 
-<hr/>
