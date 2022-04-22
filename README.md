@@ -15,7 +15,7 @@
 
 <br>
 
-##  📁 Check out my GitHub repositories :
+##  📁 Check out my repositories :
 
 <div>
   <p>
