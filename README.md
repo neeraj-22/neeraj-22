@@ -13,6 +13,7 @@
 - 🤝 I’m looking forward to collaborate on open source projects.
 - ➕ Connect with me at: <a href="https://www.linkedin.com/in/neeraj-gandhi-53487a193/">Neeraj Gandhi</a>
 
+- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=neeraj-22.visitor-badge)
 <br>
 
 ##  📁 Check out my repositories :
