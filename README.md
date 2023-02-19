@@ -1,13 +1,13 @@
-<h1 align="center">Hey there! I'm Neeraj Gandhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<!-- <h1 align="center">Hey there! I'm Neeraj Gandhi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> -->
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;REST+APIs+Development;React%20|%20Redux%20|%20Next%20;JavaScript%20|%20Solidity%20;Bootstrap%20|%20MUI%20|%20TailwindCSS%20;C%20|%20CPP%20;Blockchain%20Enthusiast&center=true&width=500&height=50">
 </p>
-<hr/>
-<br>
+<hr/> -->
+<!-- <br> -->
 
 ### My NFT Collection from <a href="https://github.com/neeraj-22/showcase-nft" target="_blank">Showcase-NFT</a> 
 
-<img src="http://res.cloudinary.com/dldtyoeg6/image/upload/v1676830967/showcase-nft/kria23qjm7lf0roporqj.png" alt="NFTs at address : 0x2654Cf07799D2E61c225279E08ba2612e5Cc59eB" width="500px" height="500px"/>
+<img src="http://res.cloudinary.com/dldtyoeg6/image/upload/v1676830967/showcase-nft/kria23qjm7lf0roporqj.png" alt="NFTs at address : 0x2654Cf07799D2E61c225279E08ba2612e5Cc59eB"/>
 
 ##  🧔‍♂️ About Me
  :india:I am proficient in MERN Development, Creating REST APIs, and Frontend development
