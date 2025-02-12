@@ -24,10 +24,7 @@
 
 <div>
   <p>
-    <a href="https://github.com/neeraj-22/e-mart">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj-22&repo=E-Mart" alt="GitHub Stats" />
-    </a>
-	  <a href="https://github.com/neeraj-22/zero-knowledge-auth">
+   <a href="https://github.com/neeraj-22/zero-knowledge-auth">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=neeraj-22&repo=zero-knowledge-auth" alt="GitHub Stats" />
     </a>
   </p>
